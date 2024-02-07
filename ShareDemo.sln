@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareDemo", "ShareDemo\ShareDemo.csproj", "{FF0C46B0-2A04-437A-A3CB-FBA9B47E3047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0C46B0-2A04-437A-A3CB-FBA9B47E3047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0C46B0-2A04-437A-A3CB-FBA9B47E3047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0C46B0-2A04-437A-A3CB-FBA9B47E3047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0C46B0-2A04-437A-A3CB-FBA9B47E3047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
